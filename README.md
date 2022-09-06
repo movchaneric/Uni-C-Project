@@ -14,7 +14,7 @@ The purpose of this project is to build an assembler for 32-instruction asssembl
 
 **4.After Second pass will generate files:**
 
-1 .am => .as file after macro stage.
+    1 .am => .as file after macro stage.
     2. .ob => 32 base coverted .as file.
     3. .ex => external labels and there location.
     4. .en => entry labels and there location.
